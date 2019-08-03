@@ -1,0 +1,13 @@
+{
+  "name": "headless-chrome-and-puppeteer-example",
+  "version": "0.0.1-snapshot",
+  "main": "server.js",
+  "description": "example",
+  "README": "",
+  "license": "",
+  "repository": "",
+  "dependencies": {
+    "chrome-remote-interface": "^0.27.2",
+    "puppeteer": "^1.19.0"
+  }
+}
