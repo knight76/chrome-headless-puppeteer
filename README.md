@@ -1,7 +1,4 @@
-# headless chrome
-
-## How to deploy
-Dockfile
+# headless chrome with puppeteer
 
 ## How to Test
 
@@ -15,7 +12,10 @@ In terminal #B, run next shell command.
 stop.sh
 ```
 
-In terminal #B, run next shell command.
+In terminal #C, run next shell command.
 ```
 test.sh
 ```
+
+## How to deploy
+use Docker & Dockerfiles!
